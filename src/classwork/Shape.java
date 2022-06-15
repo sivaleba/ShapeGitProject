@@ -6,6 +6,7 @@ public class Shape {
 	System.out.println("It's a class ");
 	System.out.println("This is modified by otherprogrammer.");	
 		System.out.println("It's modified in git. ");
+		'System.out.println("changes made in the class is done ");
 	}
 
 }
